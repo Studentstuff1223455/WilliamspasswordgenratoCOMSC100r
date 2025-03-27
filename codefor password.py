@@ -46,5 +46,5 @@ has_spec = input("Do you want special characters? (y/n): ") == 'y'
 pwd = password_lover(min_numbers, reckoning, has_spec)
 
 
-print("Your password:", pwd)
+print("Heres your new password:", pwd)
 
